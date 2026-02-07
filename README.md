@@ -13,7 +13,7 @@ The users include farmers (agricultural producers), local vendors, wholesalers, 
 ## Current Technology and its Drawbacks
 There are platforms like AgriBazaar, Farmerprice, and Farmlink, which are digital marketplaces for agricultural products, along with blockchain solutions for supply chain transparency and mobile apps like Digital Mandi India, offering agricultural information, market prices, and weather forecasts but are failing to provide a better mutually beneficial system.
 
-What's missing in the current technology is transparency across the entire supply chain, smooth connectivity between consumers, farmers, and all the middle-men, a reduced number of intermediaries, and easy-to-use platforms for farmers to work on a larger scale.
+What is missing in the current technology is transparency across the entire supply chain, smooth connectivity between consumers, farmers, and all the middle-men, a reduced number of intermediaries, and easy-to-use platforms for farmers to work on a larger scale.
 
 ## Aim
 Our platform will help create a fairer system for both farmers and consumers, with sustainability at the heart of every exchange.
